@@ -1,6 +1,6 @@
 # 📧 Gmail – Análise das Funcionalidades do Aplicativo  
 ### Engenharia de Software I  
-### Participantes: Ana Laura Amoroso, Ana Carolina, Silvia Helena e Larissa  
+### Participantes: Ana Laura Amoroso, Ana Carolina, Sylvia Helena e Larissa  
 
 Este repositório contém o estudo e planejamento do sistema baseado no **Gmail**, com foco nas funcionalidades de envio, composição e anexos de e-mail.  
 O objetivo é analisar o funcionamento dessas funcionalidades e apresentar um **planejamento completo**, conforme solicitado pelos investidores (Anjos do Brasil) e pelo professor.
@@ -103,7 +103,7 @@ O projeto terá duração total de **6 meses**, conforme o cronograma abaixo.
 Equipe atual do projeto:  
 - Ana Laura Amoroso  
 - Ana Carolina  
-- Silvia Helena  
+- Sylvia Helena  
 - Larissa  
 
 Para um desenvolvimento real, seriam necessários os seguintes papéis:
